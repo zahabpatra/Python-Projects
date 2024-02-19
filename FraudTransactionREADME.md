@@ -18,7 +18,7 @@ The dataset utilized in this project is the [Credit Card Fraud Detection](https:
 
 ## Usage
 1.Download the repository
-2.Open house_price_prediction.ipynb notebook in Jupyter
+2.Open fraud_transaction.ipynb notebook in Jupyter
 3.Follow along and customize the code
 
 ## Contributing
