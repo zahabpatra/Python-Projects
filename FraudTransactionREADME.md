@@ -17,9 +17,9 @@ The dataset utilized in this project is the [Credit Card Fraud Detection](https:
 - Future plans include exploring more features and models
 
 ## Usage
-1.Download the repository
-2.Open fraud_transaction.ipynb notebook in Jupyter
-3.Follow along and customize the code
+- Download the repository
+- Open fraud_transaction.ipynb notebook in Jupyter
+- Follow along and customize the code
 
 ## Contributing
 We welcome contributions and ideas! Consider submitting an issue or pull request with your changes.
