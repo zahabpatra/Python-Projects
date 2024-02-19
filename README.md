@@ -23,7 +23,7 @@ We welcome contributions and ideas! Consider opening an issue or pull request wi
 This is an educational project and does not guarantee accurate real estate price predictions. 
 
 **More Details:**
-* Data source: kaggle datasets download -d harlfoxem/housesalesprediction
+* Data source: http://www.kaggle.com/datasets/harlfoxem/housesalesprediction
 * Tools: Python, Jupyter Notebook, scikit-learn
 
 **Next Steps:**
