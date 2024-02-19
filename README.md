@@ -1,4 +1,3 @@
-# Python-Projects
 ## Predicting House Prices in King County, USA
 This project explores building a model to estimate house prices in King County, Washington using the King County House Sales dataset from Kaggle. It analyzes how features like square footage, bedrooms, bathrooms, location, etc. correlate with price.
 
