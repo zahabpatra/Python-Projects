@@ -15,15 +15,6 @@ This project aims to predict employee turnover using machine learning techniques
 - Future improvements include exploring additional features and models
 
 ## Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your_username/employee-turnover-prediction.git
-   ```
-2. Install the required dependencies:
-   ```bash
-   pip install pandas scikit-learn
-   ```
-3. Run the Jupyter notebook `employee_turnover_prediction.ipynb` to see the project's implementation and results.
 
 ## Contributing
 We welcome contributions and ideas! Consider opening an issue or pull request with your changes.
